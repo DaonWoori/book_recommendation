@@ -4,5 +4,3 @@
 - 프로젝트 기간: 2023.04.07 ~ 2023.04.12
 - Skills: pandas, numpy, sklearn, flask, mongoDB, pymongo, pickle
 - 포트폴리오: https://up-in-the-air.tistory.com/5
-
-출처: 코드스테이츠 AIB 부트캠프
